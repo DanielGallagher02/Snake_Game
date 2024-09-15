@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact 
 
 - Daniel Gallagher - danielgallagher282@gmail.com
-- Project Link -  https://github.com/DanielGallagher02/snake-game
+- Project Link -  https://github.com/DanielGallagher02/Snake-Game
 
 
   
