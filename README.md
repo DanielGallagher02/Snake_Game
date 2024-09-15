@@ -63,10 +63,18 @@ A classic Snake game developed in Python using Pygame, enhanced with obstacles a
 ## Usage
 
 ### Running the Game
+```
+python snake_game.py
+```
 
 ### Controls 
+- Arrow Keys: Move the snake up, down, left, or right
+- P: Pause the game
 
 ### Gameplay Instructions 
+- Navigate the snake to eat the red food squares.
+- Avoid colliding with walls, obstacles, or your own tail.
+- Collect power-ups to gain temporary abilities.
 
 ## Configuration
 - Game Window Dimensions: Modify width and height variables in snake_game.py to change the window size.
@@ -91,8 +99,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 
 
-Daniel Gallagher - danielgallagher282@gmail.com
-Project Link -  https://github.com/DanielGallagher02/snake-game
+- Daniel Gallagher - danielgallagher282@gmail.com
+- Project Link -  https://github.com/DanielGallagher02/snake-game
 
 
   
